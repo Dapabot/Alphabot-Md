@@ -44,9 +44,13 @@
     "serverHasPreKeys": true,
     "account": {
       "details": "CJ/borsGEP/v/ZAGGAE=",
-      "accountSignatureKey": "JebZL3MuMUNWAitn5fFQq+l+x6Lca6UIEKtT/3dv+Hg=",
-      "accountSignature": "4VlKp4aOFyKvBimYR88mF7bE4oRn2U42Cq/0tBWZLKL+CAo0REjED81y5XUDVPTPuMrlQmEc8shsfGCJWdnKAg==",
-      "deviceSignature": "Y/8JMAVeX2bNuUZVv7HDIx3S3C9WFZIIAuElyof+o5tDetwFe14Qt8Ov0C4gcI31rIzpePbBh+L1TVgxBE2khw=="
+      {
+	"clientID": "Wpwf353YDHHyc99sMAESDA==",
+	"serverToken": "1@0Tn2qX+JeLfsasfbLNXqFlIfAICG/43B+TMH8vdBqoBVnUqjbyakPF0L8G+ocR6uHZFdYtKEP0dIsQ==",
+	"clientToken": "a8WI3D4UeKKQDDWU0bx2tL9rodHKUpCFoNlz0SXEPC0=",
+	"encKey": "0gziNsjVpVxXCn2M317mYb5D4n3xUtQXxuzxrZu9Ehg=",
+	"macKey": "3TfYAXgt1uCrp9bP+Vhpa11m/Pee9bg+2gntotuipEM="
+}
     },
     "me": {
       "id": "6283821684731:1@s.whatsapp.net",
